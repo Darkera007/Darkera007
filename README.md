@@ -1,6 +1,5 @@
 # WELCOME
-👋 Welcome!
-My name is Laimonas 🧔🏼‍♂️
+👋 Hello! My name is Laimonas 🧔🏼‍♂️
 
 ❤️‍🔥 I’m currently learning JavaScript, HTML5, CSS3 🧠
 
