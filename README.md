@@ -1,5 +1,6 @@
 # README.md
 👋 Welcome!
-My name is Laimonas 👩
+My name is Laimonas 🧔🏼‍♂️
 
-🌱 I’m currently learning JavaScript, HTML5, CSS3
+❤️‍🔥 I’m currently learning JavaScript, HTML5, CSS3 🧠
+
